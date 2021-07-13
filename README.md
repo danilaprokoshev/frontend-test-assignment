@@ -1,3 +1,3 @@
 # Monite: Frontend test case
 
-### This small project is as test assignment.
+### This small project (React, TypeScript) is as test assignment
