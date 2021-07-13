@@ -1,0 +1,124 @@
+{
+  "banks": [
+    {
+      "id": 1,
+      "title": "Tinkoff",
+      "address": "Moscow",
+      "IBAN": "CH7689144497354555744",
+      "email": "info@tinkoff.ru",
+      "Found Date": "12.04.2004"
+    },
+    {
+      "id": 2,
+      "title": "Sberbank",
+      "address": "Moscow",
+      "IBAN": "CH1089144951663574766",
+      "email": "info@sberbank.ru",
+      "Found Date": "17.09.1998"
+    },
+    {
+      "id": 3,
+      "title": "FHS",
+      "address": "Milan",
+      "IBAN": "TR050006287139924942247972",
+      "email": "info@FHS.it",
+      "Found Date": "17.09.1998"
+    },
+    {
+      "id": 4,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 5,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 6,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 7,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 8,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 9,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 10,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 11,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 12,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 13,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 14,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    },
+    {
+      "id": 15,
+      "title": "Fusion",
+      "address": "New York",
+      "IBAN": "TG74363825217747385718786454",
+      "email": "info@fusion.com",
+      "Found Date": "11.09.1991"
+    }
+  ]
+}
