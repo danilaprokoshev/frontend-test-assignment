@@ -36,7 +36,17 @@ const App = () => {
     switchModal(!isOpenedModal);
   };
 
-  const renderModal = (isOpenedModalFlag: boolean, handleModalFn: object, fetchedItems: object[], onSubmit: object) => <CustomModal show={isOpenedModal} onHide={handleModal} fetched={fetched} onSubmit={fetchContent}/>;
+  const renderModal = (
+    isOpenedModalFlag: boolean,
+    handleModalFn: object,
+    fetchedItems: object[],
+    onSubmit: object) => (<CustomModal
+      show={isOpenedModal}
+      onHide={handleModal}
+      fetched={fetched}
+      onSubmit={fetchContent}
+    />
+  );
 
   return (
     <>

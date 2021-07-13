@@ -83,7 +83,10 @@ const CustomModal = ({
                 onChange={formik.handleChange}
                 onBlur={formik.handleBlur}
                 value={formik.values[key]}
-                isInvalid={formik.touched[key] && (formik.errors.hasOwnProperty(key))}
+                isInvalid={
+                  formik.touched[key]
+                  &&
+                  (formik.errors.hasOwnProperty(key))}
                 name={key}
               />
               <FormControl.Feedback
