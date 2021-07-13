@@ -61,7 +61,6 @@ const App = () => {
                         <Navbar bg="light" expand="lg">
                           <Navbar.Brand href="/">The Simplest Database</Navbar.Brand>
                         </Navbar>
-                        {/*<h1 className="shadow bg-secondary text-center text-white">Simple Database</h1>*/}
                         <Table striped bordered hover variant="dark">
                           <thead>
                           <tr>
@@ -84,20 +83,8 @@ const App = () => {
                           }
                           </tbody>
                         </Table>
-                        {/*<div className="border-top mt-auto py-3 px-5">*/}
-                        {/*  <Button*/}
-                        {/*    variant="secondary"*/}
-                        {/*    size="lg"*/}
-                        {/*    className="btn-block"*/}
-                        {/*    onClick={handleModal}*/}
-                        {/*  >*/}
-                        {/*    Add New Entry*/}
-                        {/*  </Button>*/}
-                        {/*</div>*/}
                         {
-                          isOpenedModal
-                            ? renderModal(isOpenedModal, handleModal, fetched, fetchContent)
-                            : null
+                          isOpenedModal && renderModal(isOpenedModal, handleModal, fetched, fetchContent)
                         }
                       </div>
                     </ScrollableFeed>
