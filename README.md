@@ -1,7 +1,7 @@
-# Monite: Frontend test case
+# Frontend test case
 [![Actions Status](https://github.com/danilaprokoshev/monite-test-assignment/workflows/CI/badge.svg)](https://github.com/danilaprokoshev/monite-test-assignment/actions)
 
-### This small project (React, TypeScript) is as test assignment
+### This small project (React, TypeScript) is as [frontend test assignment](https://docs.google.com/document/d/16IkxQ_ZDRxrfnzdjQdYP5UfyloGwmwXsZ5IEXEbuL2E/edit).
 
 ### Installation
 
